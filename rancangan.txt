@@ -1,0 +1,52 @@
+Jumlah Mahasiswa =
+Jumlah Mata kuliah =
+==========================
+Mahasiswa ke-n
+nama = 
+===============================
+mata kuliah =
+  Nilai tugas  = 
+  Nilai uts    =
+  Nilai uas    =
+  Nilai akhir  =
+.
+.
+.
+n
+========================
+Daftar nilai mahasiswa
+  Nama mahasiswa 
+      Mata Kuliah  =
+        Nilai tugas  = 
+        Nilai uts    =
+        Nilai uas    =
+        Nilai akhir  =
+      Mata Kuliah  =
+        Nilai tugas  = 
+        Nilai uts    =
+        Nilai uas    =
+        Nilai akhir  =
+Rata-rata nilai Tugas =
+Rata-rata nilai UTS =
+Rata-rata nilai UAS =
+Rata-rata nilai Akhir =
+
+ Nama mahasiswa 
+      Mata Kuliah  =
+        Nilai tugas  = 
+        Nilai uts    =
+        Nilai uas    =
+        Nilai akhir  =
+      Mata Kuliah  =
+        Nilai tugas  = 
+        Nilai uts    =
+        Nilai uas    =
+        Nilai akhir  =
+Rata-rata nilai Tugas =
+Rata-rata nilai UTS =
+Rata-rata nilai UAS =
+Rata-rata nilai Akhir =
+.
+.
+.
+n
